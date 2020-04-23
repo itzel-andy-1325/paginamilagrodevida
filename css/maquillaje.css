@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5/03/2020, 08:48:11 PM
+    Author     : Estradajdl
+*/
+
+hmtl, body{
+    
+    height: 100%;
+    background: #33FF99;
+}
+
+iframe{
+    border:0;
+}
+
+div#exterior1{
+    float:left;
+    width:26%;
+    height: 0px;
+   
+}
+header{
+    height: 20%;
+    width: 80%;
+    display: block;
+    padding: 10px 0px;
+    text-align: center;
+    border: none;
+}
+header{
+    height:20%;
+    display: block;
+    padding: 10px 0px;
+    text-align: center;
+    border:none;
+    background-image: url(img/Texturas_1350.jpg);
+    
+}
+nav{
+    float:left; 
+     width: 19%;
+     height: 70%;
+ background: url("img/Texturas_1350.jpg");
+    
+}
+
+section{
+    float:left;
+    height: 70%;
+    width: 81%;
+    /*background: green;*/
+    overflow: auto;
+    padding-bottom: 60px;
+    padding-top: 30px;
+  
+   background: url("img/Texturas_1350.jpg");
+}
+
+footer{
+    height: 10%;
+  
+    margin-top: 40px;
+    height: 100px;
+    padding: 5px 0px;
+    clear: both;
+   /* background: aquamarine;*/
+    text-align: center;
+     background: url("img/Texturas_1350.jpg");
+}
+
+
